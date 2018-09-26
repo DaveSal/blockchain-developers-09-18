@@ -4,3 +4,4 @@
 | email |
 | ------------- |
 | dmitry.meshkov@iohk.io|
+| salamaudavid@gmail.com|
